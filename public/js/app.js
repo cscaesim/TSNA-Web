@@ -71,7 +71,7 @@ var App = function (_React$Component) {
                         { className: 'container-fluid' },
                         React.createElement(
                             'a',
-                            { className: 'navbar-brand', href: '#' },
+                            { className: 'navbar-brand', href: 'https://github.com/cscaesim' },
                             React.createElement('img', { id: 'tabbar-image', src: 'https://raw.githubusercontent.com/cscaesim/Pictures/master/SpaceIcon.PNG?token=AEDENNBXT2DYEP5HWYI2J6LA3EOZ2' }),
                             'TSNA'
                         )

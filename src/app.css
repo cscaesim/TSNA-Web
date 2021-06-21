@@ -48,6 +48,14 @@ h1 {
     overflow: auto;
 }
 
+.navbar {
+    /* opacity: 50%; */
+}
+
+.navbar-brand {
+    color: white;
+}
+
 .article-col {
     height: 100%;
     width: 100%;
@@ -74,4 +82,11 @@ a {
     width: 40px;
     border-radius: 10px;
     margin-right: 10px;
+}
+
+a:hover {
+    font-family: "Lucida Console", "Courier New", monospace, bold;
+    color: red;
+    text-decoration: none;
+    font-weight: 800;
 }
